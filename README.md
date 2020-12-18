@@ -1,2 +1,2 @@
 # crmkit-go
-your friendly old salesforce toolbox
+your friendly old salesforce toolkit
